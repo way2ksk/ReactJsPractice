@@ -12,7 +12,7 @@
   "dependencies": {
     "autobind-decorator": "^1.4.1",
     "babel-polyfill": "^6.23.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "font-awesome": "^4.7.0",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
